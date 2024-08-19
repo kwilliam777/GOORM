@@ -49,7 +49,7 @@ while not done:
         print(translate_text(multiLang,"es"))        
         print(translate_text(multiLang,"de"))
     elif option == "도전2":
-        print("제 github를 소개합니다.")
+        print("제 github를 소개합니다.  https://github.com/kwilliam777/GOORM/tree/main  ")
     elif option == "종료":
         reply = input("프로그램을 종료할까요? [y/n]")
         if reply == "y":
